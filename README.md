@@ -1,1 +1,3 @@
-# emre-crypto-ai
+# Emre Crypto AI
+
+Türkçe Telegram Kripto Asistanı
